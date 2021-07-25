@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Yerin Kim,
 - 👀 I’m interested in Fintech, BigData, Backend.
+- 📫 e-mail : ggg06224@naver.com or k67065411@gmail.com
