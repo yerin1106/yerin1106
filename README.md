@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yerin Kim,
+- 👀 I’m interested in Fintech, BigData, Backend.
