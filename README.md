@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yerin Kim,
-- 👀 I’m interested in Fintech, E-commerce BigData, Full-Stack.
+- 👀 I’m interested in Fintech, E-commerce, BigData, Full-Stack.
 - 📫 e-mail : ggg06224@naver.com or k67065411@gmail.com
