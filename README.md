@@ -22,7 +22,13 @@
 | Education           | 2018. 3. ~ 2022. 2. | Department of Software        | Gachon University                      |   
 | Education           | 2019. 8.            | DB Corporate Management Camp  | DB Group                               |   
 | Education           | 2021. 7. ~ 2021. 8. | Fintech Pre-internship course | Korea Fintech Support Center & Koscom  |
-| Internal activities | 2018. 3. ~ 2019. 6. | Software club wiring management (Gachon University) | Korea Fintech Support Center & Koscom  | 
+| Internal activities | 2018. 3. ~ 2019. 6. | Software club wiring management  | Gachon University  | 
+| Internal activities | 2020. 3. | Online TA  | Gachon University  |
+| Internal activities | 2020. 9. ~ 2020. 12. | Software implementation pattern TA  | Gachon University  |
+| Internal activities | 2021. 3. ~ 2021. 6. | The basics of programming TA  | Gachon University  |
+| Research activities | 2021. 6. ~ 2021. 8. | A researcher at the information security lab  | Gachon University  |
+| Research activities | 2021. 7. ~ 2021. 8. | A researcher at the VR/AR lab  | Gachon University  |
+| External activities | 2019. 5. ~ 2019. 8. | VORA friends  | Kyobo |
 
 ### 🔥 My Project
 
