@@ -30,4 +30,3 @@
 
 ### 🔥 My Project
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin1106&show_icons=true&theme=radical)
