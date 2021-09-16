@@ -17,7 +17,12 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
 ### 🔥 Career
-
+| Type                | Date                | Contents                      | Organization                           |
+|---------------------|---------------------|-------------------------------|----------------------------------------|
+| Education           | 2018. 3. ~ 2022. 2. | Department of Software        | Gachon University                      |   
+| Education           | 2019. 8.            | DB Corporate Management Camp  | DB Group                               |   
+| Education           | 2021. 7. ~ 2021. 8. | Fintech Pre-internship course | Korea Fintech Support Center & Koscom  |
+| Internal activities | 2018. 3. ~ 2019. 6. | Software club wiring management (Gachon University) | Korea Fintech Support Center & Koscom  | 
 
 ### 🔥 My Project
 
