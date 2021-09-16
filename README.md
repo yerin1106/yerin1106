@@ -16,6 +16,7 @@
 | Education           | 2018. 3. ~ 2022. 2. | Department of Software        | Gachon University                      |    
 | Education           | 2021. 7. ~ 2021. 8. | Fintech Pre-internship course | Korea Fintech Support Center & Koscom  |
 | Internal activities | 2018. 3. ~ 2019. 6. | Software club wiring management  | Gachon University  | 
+| Research activities | 2018. 3. ~ 2019. 6. | Software club wiring management  | Gachon University  | 
 | Research activities | 2021. 6. ~ 2021. 8. | A researcher at the Information Security lab  | Gachon University  |
 | Research activities | 2021. 7. ~ 2021. 8. | A researcher at the VR/AR lab  | Gachon University  |
 | External activities | 2019. 5. ~ 2019. 8. | VORA friends  | Kyobo |
