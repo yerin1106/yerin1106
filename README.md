@@ -10,18 +10,4 @@
 #### - Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 
-### 🔥 Career
-| Type                | Date                | Contents                      | Organization                           |
-|---------------------|---------------------|-------------------------------|----------------------------------------|
-| Education           | 2018. 3. ~ 2022. 2. | Department of Software        | Gachon University                      |    
-| Education           | 2021. 7. ~ 2021. 8. | Fintech Pre-internship course | Korea Fintech Support Center & Koscom  |
-| Internal activities | 2018. 3. ~ 2019. 6. | Software club wiring management  | Gachon University  |  
-| Research activities | 2021. 6. ~ 2021. 8. | A researcher at the Information Security lab  | Gachon University  |
-| Research activities | 2021. 7. ~ 2021. 8. | A researcher at the VR/AR lab  | Gachon University  |
-| External activities | 2019. 5. ~ 2019. 8. | VORA friends  | Kyobo |
-| External activities | 2021. 1. ~ 2021. 2. | Internship  | EMRO - AI Business Division |
-| External activities | 2021. 9. ~ 2021. 11. | Internship  | happytoseeyou |
-
-### 🔥 My Project
-
-
+### 🔥 Career & Project
