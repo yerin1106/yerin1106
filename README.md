@@ -25,7 +25,6 @@
 | Research activities | 2021. 6. ~ 2021. 8. | A researcher at the information security lab  | Gachon University  |
 | Research activities | 2021. 7. ~ 2021. 8. | A researcher at the VR/AR lab  | Gachon University  |
 | External activities | 2019. 5. ~ 2019. 8. | VORA friends  | Kyobo |
-| External activities | 2019. 5. ~ 2019. 8. | VORA friends  | Kyobo |
 | External activities | 2021. 1. ~ 2021. 2. | Internship  | EMRO - AI Business Division |
 | External activities | 2021. 9. ~ 2021. 11. | Internship  | happytoseeyou |
 
