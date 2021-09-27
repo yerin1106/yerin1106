@@ -1,5 +1,6 @@
 ### 🔥 introduce
 - 👋 Hi there! I’m Yerin Kim. I'm dreaming of becoming a full-stack developer.
+- 👩‍💻 I'm full of intellectual curiosity!
 - 👀 I’m interested in Fintech, E-commerce, BigData.
 - 📧 k670654111@gmail.com
 
